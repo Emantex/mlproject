@@ -22,4 +22,5 @@ setup(
     author_email='omanoyeemmanuel@gmail.com',
     package_data=find_packages(),
     install_requires=get_requirements('get_requirements')
+    
 )
